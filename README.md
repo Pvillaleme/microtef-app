@@ -1,9 +1,9 @@
 # Microtef App
 
 * Clique [aqui](https://stone-pagamentos.gitbooks.io/microtef-service-documentation/content/) para obter uma documentação das `Operations`.
-* Clique [aqui]() para baixar o instalador
+* Clique [aqui](https://github.com/stone-pagamentos/microtef-app/releases/tag/0.0.3) para baixar o instalador
 * Clique [aqui](https://github.com/stone-pagamentos/microtef-app/issues) para tirar dúvidas
-* Clique [aqui]() para visualizar o _change log_
+* Clique [aqui](https://github.com/stone-pagamentos/microtef-app/blob/master/CHANGELOG.md) para visualizar o _change log_
 
 ### Quick baby steps
 
@@ -34,4 +34,4 @@ microtef stop
 
 # Dúvidas?
 
-Fale com a gente!
+[Fale com a gente](mailto:devmicrotef@stone.com.br)!
